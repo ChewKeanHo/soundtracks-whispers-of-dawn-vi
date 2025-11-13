@@ -1,27 +1,27 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Whispers of Dawn VI
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Finally, the last piece of this Celtic New Age soundtrack series. Done for explorations and for the vibes. Thank you for staying this long.
 
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAgKMNjLewUnDNS2hRkQANTx
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAiBCRw6Q91FO8iN2Muo4IDB
 
 
 § METADATA
 ━━━━━━━━━━
-Music made on [PUBLISHED_DATE] (before 2025-10-30 terms of service changes) in: https://www.udio.com/
+Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-vi
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+soundtrack, celtic new age, irish celtic, celtic pop, dream pop, futurepop, melodic trance, harp, flute, uilleann pipes, strings, synth pads, melodic, uplifting, longing, female vocalist
