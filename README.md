@@ -18,7 +18,7 @@ Change: 2025-11-13 07:48:48.525775673 +0800
  Birth: 2025-07-31 06:37:54.037313156 +0800
 
 On Published Date: 2025-07-31
-On YouTube since : 2025-10-26
+On YouTube since : 2025-08-02
 ```
 
 [YouTube](https://www.youtube.com/watch?v=6NhqPtnYf7Q)
@@ -34,6 +34,7 @@ On YouTube since : 2025-10-26
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +55,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Whispers of Dawn VI
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-whispers-of-dawn-vi
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Whispers of Dawn VI
+Creators: (Holloway) Chew, Kean Ho
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-whispers-of-dawn-vi
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-07-31 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-vi
 --------------------------------------------------------------------------------
 ```
 
